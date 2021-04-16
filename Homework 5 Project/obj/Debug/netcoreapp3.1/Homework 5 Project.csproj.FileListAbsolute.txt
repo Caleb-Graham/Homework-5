@@ -7,3 +7,12 @@ C:\Users\Caleb\source\repos\Homework-5\Homework 5 Project\obj\Debug\netcoreapp3.
 C:\Users\Caleb\source\repos\Homework-5\Homework 5 Project\obj\Debug\netcoreapp3.1\Homework 5 Project.csproj.CoreCompileInputs.cache
 C:\Users\Caleb\source\repos\Homework-5\Homework 5 Project\obj\Debug\netcoreapp3.1\Homework 5 Project.dll
 C:\Users\Caleb\source\repos\Homework-5\Homework 5 Project\obj\Debug\netcoreapp3.1\Homework 5 Project.pdb
+C:\Users\11cal\source\repos\Homework-5\Homework 5 Project\bin\Debug\netcoreapp3.1\Homework 5 Project.deps.json
+C:\Users\11cal\source\repos\Homework-5\Homework 5 Project\bin\Debug\netcoreapp3.1\Homework 5 Project.dll
+C:\Users\11cal\source\repos\Homework-5\Homework 5 Project\bin\Debug\netcoreapp3.1\Homework 5 Project.pdb
+C:\Users\11cal\source\repos\Homework-5\Homework 5 Project\obj\Debug\netcoreapp3.1\Homework 5 Project.csprojAssemblyReference.cache
+C:\Users\11cal\source\repos\Homework-5\Homework 5 Project\obj\Debug\netcoreapp3.1\Homework 5 Project.AssemblyInfoInputs.cache
+C:\Users\11cal\source\repos\Homework-5\Homework 5 Project\obj\Debug\netcoreapp3.1\Homework 5 Project.AssemblyInfo.cs
+C:\Users\11cal\source\repos\Homework-5\Homework 5 Project\obj\Debug\netcoreapp3.1\Homework 5 Project.csproj.CoreCompileInputs.cache
+C:\Users\11cal\source\repos\Homework-5\Homework 5 Project\obj\Debug\netcoreapp3.1\Homework 5 Project.dll
+C:\Users\11cal\source\repos\Homework-5\Homework 5 Project\obj\Debug\netcoreapp3.1\Homework 5 Project.pdb

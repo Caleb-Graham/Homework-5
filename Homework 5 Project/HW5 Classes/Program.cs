@@ -63,11 +63,21 @@ namespace AsyncBreakfast
             return juice;
         }
 
-        public static void ApplyJam(Toast toast) =>
+        public static Toast ApplyJam(Toast toast)
+        {
             Console.WriteLine("Putting jam on the toast");
 
-        public static void ApplyButter(Toast toast) =>
+            toast.wasCalled = true;
+            return toast;
+        }
+
+        public static Toast ApplyButter(Toast toast)
+        {
             Console.WriteLine("Putting butter on the toast");
+
+            toast.wasCalled = true;
+            return toast;
+        }
 
         public static async Task<Toast> ToastBreadAsync(int slices)
         {
@@ -101,7 +111,10 @@ namespace AsyncBreakfast
             await Task.Delay(3000);
             Console.WriteLine("Put bacon on plate");
 
-            return new Bacon();
+            Bacon bacon = new Bacon();
+            bacon.wasCalled = true;
+
+            return bacon;
         }
 
         public static async Task<Egg> FryEggsAsync(int howMany)
@@ -113,14 +126,20 @@ namespace AsyncBreakfast
             await Task.Delay(3000);
             Console.WriteLine("Put eggs on plate");
 
-            return new Egg();
+            Egg egg = new Egg();
+            egg.wasCalled = true;
+
+            return egg;
         }
 
         public static Coffee PourCoffee()
         {
             Console.WriteLine("Pouring coffee");
-            //wasCalled = true;
-            return new Coffee();
+            
+            Coffee coffee = new Coffee();
+            coffee.wasCalled = true;
+
+            return coffee;
         }
     }
 }
